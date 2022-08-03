@@ -1,0 +1,35 @@
+.serviceCard {
+  margin: 5px;
+  height: 22rem;
+  padding: 60px 30px;
+  box-shadow: 0 0 4px 0 rgba(0, 115, 230, 0.2);
+}
+.reactIcon {
+  font-size: 100px;
+  color: #192a56;
+}
+
+.serviceCard:hover {
+  box-shadow: 0 0 8px 0 rgba(0, 115, 230, 0.2);
+}
+
+.serviceTitle {
+  font-family: "Montserrat", sans-serif;
+  font-size: 35px;
+  font-weight: 600;
+  margin: 3rem 0;
+  color: #2f3640;
+}
+
+.serviceSubTitle {
+  font-family: "Raleway", sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  margin: 1rem 0;
+}
+
+.servicePara {
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  color: #808080;
+}
